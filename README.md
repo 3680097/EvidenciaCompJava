@@ -1,5 +1,6 @@
 # Instalacion y configuracion
 Para poder instalar el programa, unicamente se tiene que iniciar pues es portable. 
+El archivo tiene por nombre "Test."
 
 # Uso del programa
 El programa se usa para poder agendar citas con los datos que los proporciona el cliente, usando la informacion del doctor.
